@@ -1,4 +1,5 @@
 
-.title {
-    font-size: 5px;
-  }
+#image {
+  max-width:100%;
+  height:auto;
+}
